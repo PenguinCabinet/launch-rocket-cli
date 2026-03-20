@@ -7,12 +7,12 @@
 This is a command-line tool to launch the rocket into space.     
 It also has an option to crash them.
 
-## install
+## Install
 ```
 go install github.com/PenguinCabinet/launch-rocket-cli@latest
 ```
 
-## usage
+## Usage
 ### Launch the rocket
 ```
 launch-rocket-cli
