@@ -4,21 +4,24 @@
 これはロケットを打ち上げるコマンドラインツールです。     
 オプションで墜落させることもできます。
 
+I created a command-line tool to launch the rocket into space.     
+It also has an option to crash them.
+
 ## install
 ```
 go install github.com/PenguinCabinet/launch-rocket-cli@latest
 ```
 
 ## usage
-### 単にロケットを打ち上げたい場合
+### Launch the rocket
 ```
 launch-rocket-cli
 ```
-### 打ち上げた後、ロケットを墜落させたい場合
+### Crash a rocket
 ```
 launch-rocket-cli -f
 ```
-### 詳しい使い方
+### Detailed instructions
 ```
 launch-rocket-cli -h
 ```
