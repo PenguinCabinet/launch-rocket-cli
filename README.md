@@ -4,7 +4,7 @@
 これはロケットを打ち上げるコマンドラインツールです。     
 オプションで墜落させることもできます。
 
-I created a command-line tool to launch the rocket into space.     
+This is a command-line tool to launch the rocket into space.     
 It also has an option to crash them.
 
 ## install
